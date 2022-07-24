@@ -8,6 +8,11 @@
   height: 55px;
 }
 
+.navbarpadding {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
 input.searche {
   height: 36px;
   max-width: 500px;
