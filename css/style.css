@@ -8,11 +8,6 @@
   height: 55px;
 }
 
-.navbarpadding {
-  padding-left: 100px;
-  padding-right: 100px;
-}
-
 .sidebar {
   position: -webkit-sticky;
   position: sticky;
