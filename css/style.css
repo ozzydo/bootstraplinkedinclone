@@ -13,6 +13,12 @@
   padding-right: 100px;
 }
 
+.sidebar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 10%;
+}
+
 input.searche {
   height: 36px;
   max-width: 500px;
@@ -77,7 +83,7 @@ input.content::placeholder {
   font-weight: bolder;
   font-size: 14px;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url(/bootstraplinkedinclone/assets/edit-regular.svg);
+  background-image: url(/assets/edit-regular.svg);
   background-repeat: no-repeat;
   background-size: auto;
 }
